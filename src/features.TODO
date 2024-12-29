@@ -1,0 +1,36 @@
+Features:
+    @v1:
+        Poder publicar una mascota perdida
+        Poder crear un perfil de usuario, para hacer seguimiento de tus mascotas.
+        Poder publicar una mascota encontrada
+        Poder buscar entre las mascotas perdidas, con filtros
+        Poder buscar entre las mascotas encontradas, con filtros
+        Mostrar mapa con filtros para que aparezcan las mascotas perdidas/encontradas; perro/gato/otro; pequeño/mediano/grande;
+
+    @v2:
+        Notificar al usuario cuando se cree una publicación de mascota encontrada con sus características.
+        Notificar al usuario cuando alguien comente que vio a su mascota.
+        Agregar un "Nosotros"
+        Agregar mascotas que viven en la calle (comunitarios creo)
+        Hacer un twitter, facebook, instagram, whatsapp, etc.
+        Agregar todo lo que haya de bromatología
+        Agregar un apartado de recomendaciones en caso de haber perdido una mascota
+
+    @v3:
+        Permitir agregar Veterinaria
+        Permitir agregar petshop
+        Permitir agregar refugios
+        Mascotas en adopción/tránsito
+        Agregar estadísticas con mascotas reencontradas o adoptadas.
+
+    @v4:
+        Las veterinarias pueden tener un listado con los honorarios faltantes de pago por cuidados a mascotas de la calle.
+        Agregar métodos de donaciones a las veterinarias/refugios
+        Agregar métodos de donaciones a la web
+
+    @v5:
+        Preguntarle al usuario por los lugares que frecuenta (casa, trabajo, etc) para mostrarle las mascotas perdidas allí.
+
+
+Technical tasks:
+    @v1: Update rules for post, put, etc;

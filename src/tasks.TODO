@@ -1,0 +1,11 @@
+Features:
+    @v1:
+        ✔ Registro/login usuarios @done(24-12-29 11:03)
+        ☐ Permitir que el usuario cambie sus datos de perfil
+        ☐ Permitir postear una mascota perdida
+        ☐ Permitir postear una mascota encontrada
+        ☐ Mostrar mapa con las mascotas
+        ☐ Manejo de usuarios siendo admin
+
+    @vX:
+        ☐ Ver qué roles pueden acceder a cada ruta
